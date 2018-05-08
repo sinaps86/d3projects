@@ -56,3 +56,17 @@ text {
   stroke-width: 2px;
   stroke: goldenrod;
 }
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #eee;
+  shape-rendering: crispEges;
+}
+
+.axis text {
+  font-size: 11px;
+}
+
+.bar {
+  fill: steelblue;
+}
